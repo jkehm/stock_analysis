@@ -10,8 +10,10 @@ We have already helped our friend Steve create an Excel workbook with Macros uti
 
 ## Results
 
-' ![VBA 2017 Screenshot](https://github.com/jkehm/stock_analysis/blob/main/Resources/VBA_Challenge_2017.png)
-' ![VBA_2018_Screenshot](https://github.com/jkehm/stock_analysis/blob/main/Resources/VBA_Challenge_2018.png)
+![VBA 2017 Screenshot](https://github.com/jkehm/stock_analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![VBA_2018_Screenshot](https://github.com/jkehm/stock_analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+
 
 ## Summary
 ###   1) What are the advantages or disadvantages of refactoring code?
